@@ -1,12 +1,12 @@
-# Kaan Eren
+# **Kaan Eren**
 
 ## _Student/ Texture Artist_
 
 ## _[High School of Telecommunications and Arts](http://hstat.org/)_
 
-**kaane5662@hstat.org**
-
-
+### **kaane5662@hstat.org**
+---
+About Me:  
 * I was born on August 18 2005. 
 * I am an aviation enthusiast
 * Interested in being an aircraft engineer as a career as well as a small indie game developer
