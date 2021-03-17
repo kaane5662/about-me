@@ -11,11 +11,11 @@
 * I am an aviation enthusiast 
 * Interested in being an aircraft engineer as a career as well as a small indie game developer
 * Texture Artist
- * RFS Livery Designer
- *  Roblox Clothing Designer
+  * RFS Livery Designer
+  *  Roblox Clothing Designer
 * I love pushing myself out of my comfort zone.
 
----
+---  
 
 **Schedule:**
 
