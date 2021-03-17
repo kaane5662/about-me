@@ -1,38 +1,47 @@
-Kaan Eren
+# Kaan Eren
 
-Student/ Texture Artist
+## _Student/ Texture Artist_
 
-High School of Telecommunications and Arts
+## _[High School of Telecommunications and Arts](http://hstat.org/)_
 
-kaane5662@hstat.org
+**kaane5662@hstat.org**
 
-Hello, I was born on August 18 2005. I am an aviation enthusiast who is interested in being an aircraft engineer as a career as well as a small indie game developer just to have an extra revenue source as well as get to learn game environments and objectives. I am also a texture artist for RFS, I make aircraft liveries. I also love pushing myself out of my comfort zone.
 
-Schedule:
+* I was born on August 18 2005. 
+* I am an aviation enthusiast 
+* Interested in being an aircraft engineer as a career as well as a small indie game developer
+* Texture Artist
+*   RFS Livery Designer
+*   Roblox Clothing Designer  
+* I love pushing myself out of my comfort zone.
 
-8:00 am Wake up
+---
 
-8:10 am Eat breakfast
+**Schedule:**
 
-8:25 am Take a shower
+1. 8:00 am Wake up
 
-8:45 am Start getting on my laptop
+2. 8:10 am Eat breakfast
 
-9:00 am Zoom classes
+3. 8:25 am Take a shower
 
-1:00 pm Eat lunch
+4. 8:45 am Start getting on my laptop
 
-2:00pm If I have a project or leftover homework then try finishing now so I don’t do it later
+5. 9:00 am Zoom classes
 
-3:00pm Work out
+6. 1:00 pm Eat lunch
 
-5:00pm Livery design
+7. 2:00pm If I have a project or leftover homework then try finishing now so I don’t do it later
 
-7:00pm Eat dinner
+8. 3:00pm Work out
 
-7:20pm relax
+9. 5:00pm Livery design
 
-9:00pm Start getting ready for bed
+10. 7:00pm Eat dinner
 
-10:00pm sleep
+11. 7:20pm relax
+
+12. 9:00pm Start getting ready for bed
+
+13. 10:00pm sleep
 
