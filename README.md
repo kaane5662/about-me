@@ -4,13 +4,13 @@
 
 ## _[High School of Telecommunications and Arts](http://hstat.org/)_
 
-**kaane5662@hstat.org**  
+**kaane5662@hstat.org**
 
 
 * I was born on August 18 2005. 
-* I am an aviation enthusiast 
+* I am an aviation enthusiast
 * Interested in being an aircraft engineer as a career as well as a small indie game developer
-* Texture Artist
+* Texture Artist  
   * RFS Livery Designer
   *  Roblox Clothing Designer
 * I love pushing myself out of my comfort zone.
