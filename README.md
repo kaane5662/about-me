@@ -6,7 +6,7 @@
 
 ### **kaane5662@hstat.org**
 ---
-About Me:  
+**About Me:**  
 * I was born on August 18 2005. 
 * I am an aviation enthusiast
 * Interested in being an aircraft engineer as a career as well as a small indie game developer
@@ -31,17 +31,17 @@ About Me:
 
 6. 1:00 pm Eat lunch
 
-7. 2:00pm If I have a project or leftover homework then try finishing now so I don’t do it later
+7. 2:00 pm If I have a project or leftover homework then try finishing now so I don’t do it later
 
-8. 3:00pm Work out
+8. 3:00 pm Work out
 
-9. 5:00pm Livery design
+9. 5:00 pm Livery design
 
-10. 7:00pm Eat dinner
+10. 7:00 pm Eat dinner
 
-11. 7:20pm relax
+11. 7:20 pm relax
 
-12. 9:00pm Start getting ready for bed
+12. 9:00 pm Start getting ready for bed
 
-13. 10:00pm sleep
+13. 10:00 pm sleep
 
