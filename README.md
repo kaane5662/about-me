@@ -6,7 +6,7 @@
 
 ### **kaane5662@hstat.org**
 ---
-About Me:  
+**About Me:**  
 * I was born on August 18 2005. 
 * I am an aviation enthusiast
 * Interested in being an aircraft engineer as a career as well as a small indie game developer
