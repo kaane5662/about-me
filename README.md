@@ -13,8 +13,8 @@
 
 ### 🌈 I'm always exploring new technologies and frameworks to stay ahead in the ever-evolving tech landscape. Continuous learning is not just a habit, but a lifestyle for me.
 
-## 🔧 When I'm not coding, you'll find me exploring new technologies, playing sports, exploring, and playing video games. I believe in the power of open source, and you can check out some of my projects on GitHub.
+### 🔧 When I'm not coding, you'll find me exploring new technologies, playing sports, exploring, and playing video games. I believe in the power of open source, and you can check out some of my projects on GitHub.
 
-## 📫 Let's connect! Feel free to reach out if you have questions, want to collaborate on a project, or just chat about the latest trends in tech.
+### 📫 Let's connect! Feel free to reach out if you have questions, want to collaborate on a project, or just chat about the latest trends in tech.
 
-## Happy coding! 🚀
+### Happy coding! 🚀
